@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人网站
 
 You can use the [editor on GitHub](https://github.com/Sigma975/Sigma975.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
