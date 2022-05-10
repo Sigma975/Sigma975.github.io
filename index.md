@@ -45,3 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [哔哩哔哩](https://www.bilibili.com/)
 
 [菜鸟教程](https://www.runoob.com/)
+
+[章鱼的地下城](https://www.cnmods.org/)
+
+[魔都](https://www.cnmods.net/#/homePage)
