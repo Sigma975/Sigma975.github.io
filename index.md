@@ -24,6 +24,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [章鱼的地下城](https://www.cnmods.org/)
 
+<a href="https://www.cnmods.net/#/homePage" target="_blank"><img src="https://wiki.cnmods.org/_media/logo.png"></a>
+
 [魔都](https://www.cnmods.net/#/homePage)
 
 [克苏鲁书单](https://www.douban.com/note/581689161/)
