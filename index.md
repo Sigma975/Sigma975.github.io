@@ -16,6 +16,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [哔哩哔哩](https://www.bilibili.com/)
 
+<a href="https://www.runoob.com/" target="_blank"><img src="https://img1.baidu.com/it/u=2206127466,2420924082&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100"></a>
+
 [菜鸟教程](https://www.runoob.com/)
 
 [章鱼的地下城](https://www.cnmods.org/)
