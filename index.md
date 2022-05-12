@@ -28,6 +28,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [魔都](https://www.cnmods.net/#/homePage)
 
+<a href="https://www.douban.com/note/581689161/" target="_blank"><img src="https://img0.baidu.com/it/u=2898435425,2147751146&fm=253&fmt=auto&app=138&f=JPEG?w=593&h=500"></a>
+
 [克苏鲁书单](https://www.douban.com/note/581689161/)
 
 [SCP基金会](http://scp-wiki-cn.wikidot.com/)
