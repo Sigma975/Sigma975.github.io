@@ -32,6 +32,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [克苏鲁书单](https://www.douban.com/note/581689161/)
 
+<a href="http://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://img2.baidu.com/it/u=3880532747,2617205718&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500"></a>
+
 [SCP基金会](http://scp-wiki-cn.wikidot.com/)
 
 [下次一定](https://www.iiice.cn/#/)
