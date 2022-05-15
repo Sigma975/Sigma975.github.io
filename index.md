@@ -36,6 +36,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [SCP基金会](http://scp-wiki-cn.wikidot.com/)
 
+<a href="https://www.iiice.cn/#/" target="_blank"><img src="https://www.iiice.cn/#/favicon.ico"></a>
+
 [下次一定](https://www.iiice.cn/#/)
 
 [AGE动漫](https://www.agemys.com/)
