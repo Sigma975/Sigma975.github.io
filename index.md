@@ -14,6 +14,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f"></a>
 
+<a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a>
+
 [哔哩哔哩](https://www.bilibili.com/)
 
 <a href="https://www.runoob.com/" target="_blank"><img src="https://img1.baidu.com/it/u=2206127466,2420924082&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100"></a>
