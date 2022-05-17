@@ -1,26 +1,26 @@
 ## Sigma975的导航站
 
-<a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f"></a>
+<a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f" width=160 height=120></a>
 
 <a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a>
 
-<a href="https://www.runoob.com/" target="_blank"><img src="https://img1.baidu.com/it/u=2206127466,2420924082&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100"></a>
+<a href="https://www.runoob.com/" target="_blank"><img src="https://img1.baidu.com/it/u=2206127466,2420924082&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100" width=160 height=120></a>
 
 <a href="https://www.runoob.com/" target="_blank">菜鸟教程</a>
 
-<a href="https://www.cnmods.org/" target="_blank"><img src="https://www.cnmods.org/title-1.jpg"></a>
+<a href="https://www.cnmods.org/" target="_blank"><img src="https://www.cnmods.org/title-1.jpg" width=160 height=120></a>
 
 <a href="https://www.cnmods.org/" target="_blank">章鱼的地下城</a>
 
-<a href="https://www.cnmods.net/#/homePage" target="_blank"><img src="https://wiki.cnmods.org/_media/logo.png"></a>
+<a href="https://www.cnmods.net/#/homePage" target="_blank"><img src="https://wiki.cnmods.org/_media/logo.png" width=160 height=120></a>
 
 <a href="https://www.cnmods.net/#/homePage" target="_blank">魔都</a>
 
-<a href="https://www.douban.com/note/581689161/" target="_blank"><img src="https://img0.baidu.com/it/u=2898435425,2147751146&fm=253&fmt=auto&app=138&f=JPEG?w=593&h=500"></a>
+<a href="https://www.douban.com/note/581689161/" target="_blank"><img src="https://img0.baidu.com/it/u=2898435425,2147751146&fm=253&fmt=auto&app=138&f=JPEG?w=593&h=500" width=160 height=120></a>
 
 <a href="https://www.douban.com/note/581689161/" target="_blank">克苏鲁书单</a>
 
-<a href="http://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://img2.baidu.com/it/u=3880532747,2617205718&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500"></a>
+<a href="http://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://img2.baidu.com/it/u=3880532747,2617205718&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500" width=160 height=120></a>
 
 <a href="http://scp-wiki-cn.wikidot.com/" target="_blank">SCP基金会</a>
 
