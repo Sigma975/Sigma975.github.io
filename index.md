@@ -1,7 +1,5 @@
 ## Sigma975
 
-[网页编辑](https://github.com/Sigma975/Sigma975.github.io/edit/main/index.md)
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Themes
@@ -34,28 +32,30 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <a href="http://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://img2.baidu.com/it/u=3880532747,2617205718&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500"></a>
 
-[SCP基金会](http://scp-wiki-cn.wikidot.com/)
+<a href="http://scp-wiki-cn.wikidot.com/" target="_blank">SCP基金会</a>
 
 <a href="https://www.iiice.cn/#/" target="_blank"><img src="https://www.iiice.cn/#/favicon.ico"></a>
 
-[下次一定](https://www.iiice.cn/#/)
+<a href="https://www.iiice.cn/#/" target="_blank">下次一定</a>
 
-[AGE动漫](https://www.agemys.com/)
+<a href="https://www.agemys.com/" target="_blank">AGE动漫</a>
 
-[80s电影网](https://www.80s.tw/)
+<a href="https://www.80s.tw/" target="_blank">80s电影网</a>
 
-[3DMGAME](https://www.3dmgame.com/)
+<a href="https://www.3dmgame.com/" target="_blank">3DMGAME</a>
 
-[游侠网](https://www.ali213.net/)
+<a href="https://www.ali213.net/" target="_blank">游侠网</a>
 
-[百度](https://www.baidu.com/)
+<a href="https://www.baidu.com/" target="_blank">百度</a>
 
-[腾讯视频](https://v.qq.com/?ptag=qqbsc)
+<a href="https://v.qq.com/?ptag=qqbsc" target="_blank">腾讯视频</a>
 
-[爱奇艺](https://www.iqiyi.com/)
+<a href="https://www.iqiyi.com/" target="_blank">爱奇艺</a>
 
-[蜂巢](https://666yun.men/#/dashboard)
+<a href="https://666yun.men/#/dashboard" target="_blank">蜂巢</a>
 
-[YGOcore](http://ygocore.ysepan.com/)
+<a href="http://ygocore.ysepan.com/" target="_blank">YGOcore</a>
 
-[YGO-Engine](https://www.ygo-sem.cn/index.html)
+<a href="https://www.ygo-sem.cn/index.html" target="_blank">YGO-Engine</a>
+
+<a href="https://github.com/" target="_blank">GitHub</a>
