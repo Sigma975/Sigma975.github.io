@@ -61,3 +61,7 @@
 <a href="https://ebook2.lorefree.com" target="_blank">LoreFree</a>
 
 <a href="https://zh.singlelogin.me/" target="_blank">ZLibrary</a>
+
+<a href="http://www.taichi-maker.com/" target="_blank">太极创客</a>
+
+
