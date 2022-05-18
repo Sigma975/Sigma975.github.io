@@ -49,3 +49,15 @@
 <a href="https://www.ygo-sem.cn/index.html" target="_blank">YGO-Engine</a>
 
 <a href="https://github.com/" target="_blank">GitHub</a>
+
+<a href="https://www.jiumodiary.com" target="_blank">鸠摩</a>
+
+<a href="https://www.banshujiang.cn" target="_blank">搬书匠</a>
+
+<a href="https://www.xiaobaipan.com" target="_blank">小白盘</a>
+
+<a href="https://www.pansoso.org" target="_blank">盘搜搜</a>
+
+<a href="https://ebook2.lorefree.com" target="_blank">LoreFree</a>
+
+<a href="https://zh.singlelogin.me/" target="_blank">ZLibrary</a>
