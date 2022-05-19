@@ -24,7 +24,9 @@
 
 <a href="http://scp-wiki-cn.wikidot.com/" target="_blank">SCP基金会</a>
 
-<a href="https://www.iiice.cn/#/" target="_blank"><img src="https://www.iiice.cn/#/favicon.ico"></a>
+<a href="http://scp-wiki-cn.wikidot.com/" target="_blank"><img src="https://static.leetcode.cn/cn-mono-assets/production/assets/logo-dark-cn.c42314a8.svg" width=160 height=120></a>
+
+<a href="https://leetcode.cn/" target="_blank">力扣</a>
 
 <a href="https://www.iiice.cn/#/" target="_blank">下次一定</a>
 
@@ -63,5 +65,3 @@
 <a href="https://zh.singlelogin.me/" target="_blank">ZLibrary</a>
 
 <a href="http://www.taichi-maker.com/" target="_blank">太极创客</a>
-
-
