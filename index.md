@@ -28,6 +28,8 @@
 
 <a href="https://leetcode.cn/" target="_blank">力扣</a>
 
+<a href="https://www.iiice.cn/#/" target="_blank"><img src="https://img2.baidu.com/it/u=1666363001,73034044&fm=253&fmt=auto?w=1452&h=800" width=160 height=120></a>
+
 <a href="https://www.iiice.cn/#/" target="_blank">下次一定</a>
 
 <a href="https://www.agemys.com/" target="_blank">AGE动漫</a>
