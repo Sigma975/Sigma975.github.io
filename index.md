@@ -67,3 +67,11 @@
 <a href="https://zh.singlelogin.me/" target="_blank">ZLibrary</a>
 
 <a href="http://www.taichi-maker.com/" target="_blank">太极创客</a>
+
+<a href="https://www.szlcsc.com/?c=BD&sdclkid=ALeN15opALAi15eG&audience=3121619&bd_vid=8386733010871724153" target="_blank">立创商城</a>
+
+<a href="https://www.jlc.com/" target="_blank">嘉立创</a>
+
+<a href="https://www.taobao.com/" target="_blank">淘宝</a>
+
+<a href="https://www.jd.com/" target="_blank">京东</a>
