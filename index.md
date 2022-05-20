@@ -77,3 +77,5 @@
 <a href="https://www.jd.com/" target="_blank">京东</a>
 
 <a href="https://www.csdn.net/" target="_blank">CSDN</a>
+
+<a href="https://www.elecfans.com/" target="_blank">电子发烧友</a>
