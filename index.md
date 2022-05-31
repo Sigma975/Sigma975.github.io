@@ -92,3 +92,5 @@
 <a href="https://noita.fandom.com/wiki/Noita_Wiki/zh?mobileaction=toggle_view_mobile" target="_blank">Noita Wiki</a>
 
 <a href="https://pan.baidu.com/disk/main?from=oldversion#/brand" target="_blank">百度网盘</a>
+
+<a href="https://www.rt-thread.org/" target="_blank">Rt-Thread</a>
