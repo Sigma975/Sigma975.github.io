@@ -88,3 +88,7 @@
 <a href="https://www.taobao.com/" target="_blank">淘宝</a>
 
 <a href="https://www.jd.com/" target="_blank">京东</a>
+
+<a href="https://noita.fandom.com/wiki/Noita_Wiki/zh?mobileaction=toggle_view_mobile" target="_blank">Noita Wiki</a>
+
+<a href="https://pan.baidu.com/disk/main?from=oldversion#/brand" target="_blank">百度网盘</a>
