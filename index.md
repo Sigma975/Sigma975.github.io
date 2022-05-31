@@ -16,7 +16,7 @@
   <a href="https://www.80s.tw/" target="_blank">80s电影网</a>
 </div>
 
-<div id="software" style="height:400px;width:160px;float:right;">
+<div id="software" style="height:400px;width:160px;float:left;">
 
   <h1 style="margin-bottom:0;">软件</h1>
   
