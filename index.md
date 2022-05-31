@@ -3,7 +3,10 @@
 <div id="video" style="height:200px;width:160px;float:left;">
 <h1 style="margin-bottom:0;">视频</h1>
 <a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f" width=160 height=120></a>
-<a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a></div>
+<a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a>
+<a href="https://v.qq.com/?ptag=qqbsc" target="_blank">腾讯视频</a>
+<a href="https://www.iqiyi.com/" target="_blank">爱奇艺</a>
+</div>
 
 <a href="https://www.runoob.com/" target="_blank"><img src="https://img1.baidu.com/it/u=2206127466,2420924082&fm=253&fmt=auto&app=138&f=GIF?w=220&h=100" width=160 height=120></a>
 
@@ -43,9 +46,7 @@
 
 <a href="https://www.baidu.com/" target="_blank">百度</a>
 
-<a href="https://v.qq.com/?ptag=qqbsc" target="_blank">腾讯视频</a>
 
-<a href="https://www.iqiyi.com/" target="_blank">爱奇艺</a>
 
 <a href="https://666yun.men/#/dashboard" target="_blank">蜂巢</a>
 
