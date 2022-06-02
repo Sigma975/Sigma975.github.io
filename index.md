@@ -97,6 +97,10 @@
   
 </div>
 
+<div id="other" style="height:400px;width:160px;float:left;">
+  
+  <h1 style="margin-bottom:0;">其他</h1>
+
 <a href="https://www.iiice.cn/#/" target="_blank"><img src="https://img2.baidu.com/it/u=1666363001,73034044&fm=253&fmt=auto?w=1452&h=800" width=160 height=120></a>
 
 <a href="https://www.iiice.cn/#/" target="_blank">下次一定</a>
@@ -114,5 +118,7 @@
 <a href="https://www.jd.com/" target="_blank">京东</a>
 
 <a href="https://pan.baidu.com/disk/main?from=oldversion#/brand" target="_blank">百度网盘</a>
+  
+</div>
 
 
