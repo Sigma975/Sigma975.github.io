@@ -2,7 +2,7 @@
 
 <div id="video" style="width:160px;">
   
-  <center><h1 style="margin-bottom:0;">视频</h1>
+  <center><h1 style="margin-bottom:0;">视频</h1></center><br>
   
   <center><a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f" width=160 height=120></a></center><br>
   
