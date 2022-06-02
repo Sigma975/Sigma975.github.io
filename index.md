@@ -59,7 +59,7 @@
 
 <div id="strange" style="height:400px;width:160px;float:left;">
   
-  <h1 style="margin-bottom:0;">怪异</h1>
+  <h1 style="margin-bottom:0;">猎奇</h1>
 
   <a href="https://www.cnmods.org/" target="_blank"><img src="https://www.cnmods.org/title-1.jpg" width=160 height=120></a>
 
