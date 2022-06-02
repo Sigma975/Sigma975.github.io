@@ -1,6 +1,6 @@
 ## Sigma975的导航站
 
-<div id="video" style="height:400px;width:160px;">
+<div id="video" style="width:160px;">
   
   <h1 style="margin-bottom:0;">视频</h1>
   
@@ -17,7 +17,7 @@
   <a href="https://www.80s.tw/" target="_blank">80s电影网</a>
 </div>
 
-<div id="software" style="height:400px;width:160px;">
+<div id="software" style="width:160px;">
 
   <h1 style="margin-bottom:0;">软件</h1>
   
@@ -41,7 +41,7 @@
   
 </div>
 
-<div id="game" style="height:400px;width:160px;">
+<div id="game" style="width:160px;">
   
   <h1 style="margin-bottom:0;">游戏</h1>
   
@@ -57,7 +57,7 @@
   
 </div>
 
-<div id="strange" style="height:400px;width:160px;">
+<div id="strange" style="width:160px;">
   
   <h1 style="margin-bottom:0;">猎奇</h1>
 
@@ -79,7 +79,7 @@
   
 </div>
 
-<div id="book" style="height:400px;width:160px;">
+<div id="book" style="width:160px;">
   
   <h1 style="margin-bottom:0;">书籍</h1>
   
@@ -97,7 +97,7 @@
   
 </div>
 
-<div id="other" style="height:400px;width:160px;">
+<div id="other" style="width:160px;">
   
   <h1 style="margin-bottom:0;">其他</h1>
 
