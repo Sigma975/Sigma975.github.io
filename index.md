@@ -4,17 +4,17 @@
   
   <h1 style="margin-bottom:0;">视频</h1>
   
-  <a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f" width=160 height=120></a><br>
+  <center><a href="https://www.bilibili.com/" target="_blank"><img src="https://t7.baidu.com/it/u=4138435146,1856383332&fm=218&app=125&size=f242,150&n=0&f=PNG?s=8197C732DDA1FA133E526557030030B9&sec=1652288400&t=aa4a6db4ffc4ae2338f543d4c397ef5f" width=160 height=120></a></center><br>
   
-  <a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a><br>
+  <center><a href="https://www.bilibili.com/" target="_blank">哔哩哔哩</a></center><br>
   
-  <a href="https://v.qq.com/?ptag=qqbsc" target="_blank">腾讯视频</a><br>
+  <center><a href="https://v.qq.com/?ptag=qqbsc" target="_blank">腾讯视频</a></center><br>
   
-  <a href="https://www.iqiyi.com/" target="_blank">爱奇艺</a><br>
+  <center><a href="https://www.iqiyi.com/" target="_blank">爱奇艺</a></center><br>
   
-  <a href="https://www.agemys.com/" target="_blank">AGE动漫</a><br>
+  <center><a href="https://www.agemys.com/" target="_blank">AGE动漫</a></center><br>
   
-  <a href="https://www.80s.tw/" target="_blank">80s电影网</a><br>
+  <center><a href="https://www.80s.tw/" target="_blank">80s电影网</a></center><br>
 </div>
 
 <div id="software" style="width:160px;">
