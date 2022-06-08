@@ -40,6 +40,9 @@
   
   <center><a href="https://www.rt-thread.org/" target="_blank">Rt-Thread</a></center><br>
   
+  <center><a href="https://www.rt-thread.org/document/api/group___thread.html" target="_blank">Rt-ThreadAPI参考手册</a></center><br>
+
+  
 </div>
 
 <div id="game" style="width:160px;">
