@@ -59,6 +59,10 @@
   
   <center><a href="https://noita.fandom.com/wiki/Noita_Wiki/zh?mobileaction=toggle_view_mobile" target="_blank">Noita Wiki</a></center><br>
   
+  <center><a href="http://spongem.com/ajglz/ys/ys.html" target="_blank">原神词缀计算器</a></center><br>
+  
+  <center><a href="https://wiki.biligame.com/sunmeiqi" target="_blank">孙美琦疑案</a></center><br>
+  
 </div>
 
 <div id="strange" style="width:160px;">
