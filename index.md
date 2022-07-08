@@ -41,6 +41,8 @@
   <center><a href="https://www.rt-thread.org/" target="_blank">Rt-Thread</a></center><br>
   
   <center><a href="https://www.rt-thread.org/document/api/index.html" target="_blank">Rt-ThreadAPI参考手册</a></center><br>
+  
+  <center><a href="https://shumeipai.nxez.com/intro-faq" target="_blank">树莓派实验室</a></center><br>
 
   
 </div>
