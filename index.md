@@ -59,7 +59,7 @@
 
   <center><a href="https://www.ygo-sem.cn/index.html" target="_blank">YGO-Engine</a></center><br>
   
-  <center><a href="https://noita.fandom.com/wiki/Noita_Wiki/zh?mobileaction=toggle_view_mobile" target="_blank">Noita Wiki</a></center><br>
+  <center><a href="https://noita.wiki.gg/zh/wiki/Noita_Wiki" target="_blank">Noita Wiki</a></center><br>
   
   <center><a href="http://spongem.com/ajglz/ys/ys.html" target="_blank">原神词缀计算器</a></center><br>
   
